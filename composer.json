@@ -1,0 +1,21 @@
+{
+    "name": "moee/phptraitor_demo",
+    "description": "Demo for the phptraitor project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "moee",
+            "email": "moee@github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/moee/phptraitor"
+        }
+    ],
+    "require": {
+        "moee/phptraitor": "dev-working"
+    }
+}
