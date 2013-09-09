@@ -16,6 +16,6 @@
         }
     ],
     "require": {
-        "moee/phptraitor": "dev-working"
+        "moee/phptraitor": "dev-master"
     }
 }

@@ -21,6 +21,7 @@
     <testsuites>
       <testsuite name="ts1">
         <directory>./tests/PhptraitorDemo/SimpleGetterSetterTest.php</directory>
+        <directory>./tests/PhptraitorDemo/MultipleInstancesTest.php</directory>
         <directory>./tests/PhptraitorDemo/ZendValidatorGetterSetterTest.php</directory>
       </testsuite>
     </testsuites>
