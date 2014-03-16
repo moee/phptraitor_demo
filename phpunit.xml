@@ -23,6 +23,7 @@
         <directory>./tests/PhptraitorDemo/SimpleGetterSetterTest.php</directory>
         <directory>./tests/PhptraitorDemo/MultipleInstancesTest.php</directory>
         <directory>./tests/PhptraitorDemo/ZendValidatorGetterSetterTest.php</directory>
+        <directory>./tests/PhptraitorDemo/PrimeNumberIteratorTest.php</directory>
       </testsuite>
     </testsuites>
 </phpunit>
